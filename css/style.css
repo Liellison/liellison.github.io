@@ -23,9 +23,9 @@ h6 {
 .project-entry {
   padding: 0 5%;
 }
-.primeiros { float: left; width: 20%; }
-.segundos { float: center; width: 20%; }
-.terceiros { float: right; width: 20%; }
+.primeiros { float: left; width: 34%; }
+.segundos { float: right; width: 33%; }
+.terceiros { float: right; width: 33%; }
 
 h1 {
   font-size: 40px;
@@ -34,7 +34,7 @@ h1 {
   display: inline;
 }
 div {
-  background-color: #f3f3f3;
+  background-color: #ffffff;
 }
 
 h2 {
