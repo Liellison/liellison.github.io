@@ -23,6 +23,9 @@ h6 {
 .project-entry {
   padding: 0 5%;
 }
+.primeiros { float: left; width: 20%; }
+.segundos { float: center; width: 20%; }
+.terceiros { float: right; width: 20%; }
 
 h1 {
   font-size: 40px;
